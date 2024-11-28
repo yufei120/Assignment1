@@ -1,0 +1,136 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    margin: 0%;
+}
+.web_header{
+    background-color: black;
+    color: white;
+    padding-top: 2px;
+    display:flex;
+    justify-content: space-between;
+
+}
+/*index*/
+
+
+#introduction{
+    
+    margin: auto;
+}
+#introduction img{
+    width:auto;
+    height: auto;
+    max-width: 90%;
+    max-height:30%;
+    margin-left: 20px;
+    border-radius:20px;
+    
+
+}
+#introduction h2{
+    margin-top: 0;
+}
+/*about*/
+
+#aboutmain{
+    display: flex;
+    margin: auto;
+}
+#aboutmain img{
+    width:auto;
+    height: auto;
+    max-width: 40%;
+    max-height:10%;
+    margin-left: 20px;
+    border-radius:20px;
+    
+
+}
+#aboutmain h2{
+    margin-top: 0;
+}
+
+/*news*/
+#newmain img{
+    width:auto;
+    height: auto;
+    max-width: 40%;
+    max-height:10%;
+    margin-left: 20px;
+    border-radius:20px;
+}
+/*playlist*/
+#playlistmain img{
+    width:auto;
+    height: auto;
+    max-width: 100%;
+    max-height:50%;
+    margin-left: 20px;
+    border-radius:20px;
+
+}
+
+
+
+
+.header_li a {
+    color: white;
+    font-weight:bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.header_li{
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+}
+nav li{
+    display: inline;
+    margin-right: 1rem;
+    
+}
+nav a:hover{
+    color: rgb(190, 138, 187);
+}
+.header_li{
+    margin-left: -1rem;
+    padding-top: 50px;
+        
+}
+
+.branding {
+    padding-left: 1rem;
+ }
+main{
+    width: 80vw; 
+    margin: 5rem;
+    padding-top: 30px;
+ }
+
+.main p{
+    line-height: 1.5;
+
+}
+
+
+
+
+main {
+    padding-bottom: 20%;
+}
+
+footer{
+    background-color: rgb(190, 138, 187);
+    text-align: center;
+    padding: 2rem;
+    color: #ffffff;
+}
+footer a{
+    color: #ffffff;   
+}
+footer ul{
+    padding-left: 0rem;
+    margin-top: -0.5rem;
+    list-style: none;
+    line-height: 1.5;
+}
