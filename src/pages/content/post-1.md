@@ -12,4 +12,4 @@ Shawn has promised a brand-new stage design featuring cutting-edge visuals and s
 Tour dates and ticket sales will be available starting next week on his official website. Shawn’s team encourages fans to grab tickets early to avoid disappointment, as demand is expected to be extremely high.
 
 This tour marks a significant milestone in Shawn’s career as he continues to captivate audiences with his soulful voice, heartfelt lyrics, and unmatched energy on stage. Stay tuned for updates, and don’t miss the chance to see Shawn Mendes live in your city!
-![alt text](https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2023/02/0218-qa-shawn-mendes_275782673.jpg?quality=90&strip=all&w=1128&h=846&type=webp&sig=CWqqGnV8EZCAWEICq3fc9A)
+![alt text](https://i0.wp.com/www.platformmagazine.co.uk/wp-content/uploads/2020/11/platform-feature-image-16.jpg)

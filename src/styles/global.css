@@ -118,17 +118,19 @@ main{
 main {
     padding-bottom: 20%;
 }
-
-footer{
+#newmain footer{
+    padding: 6px;
+}
+.site-footer{
     background-color: rgb(190, 138, 187);
     text-align: center;
     padding: 2rem;
     color: #ffffff;
 }
-footer a{
+.site-footer a{
     color: #ffffff;   
 }
-footer ul{
+.site-footer ul{
     padding-left: 0rem;
     margin-top: -0.5rem;
     list-style: none;
