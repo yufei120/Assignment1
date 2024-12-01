@@ -5,6 +5,7 @@
         <link rel="stylesheet" href="/src/styles/global.css"/>
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
+        <script src="../scripts/songs.js"></script>
 		<title>Shawn Mendes' Greatest Hits</title>
 	</head>
 	<body>
@@ -24,22 +25,40 @@
 
         </header>
         <main id="playlistmain">
+            <!-- 
             <p>SImmerse yourself in the best of Shawn Mendes with this curated playlist. Add your favorite tracks or shuffle for a new listening experience every time!
 
             </p>
-            <img src="https://www.newsx.com/wp-content/uploads/2024/11/Shawn-Mendes.webp">
             
-            <ol class="order">
-                <h3>Playlist</h3>
-                <li>Treat You Better</li>
-                <li>Señorita</li>
-                <li>In My Blood</li>
-                <li>Wonder</li>
-                <li>Mercy</li>
-                <li>There's Nothing Holdin' Me Back</li>
-                <li>If I Can't Have You</li>
-            </ol>
+            <img src="https://www.newsx.com/wp-content/uploads/2024/11/Shawn-Mendes.webp">
+            -->
             <img src="https://i.etsystatic.com/26468723/r/il/8c7eb8/5259773178/il_1588xN.5259773178_ruvh.jpg">
+            <div class="menulist">
+                <h3>Playlist</h3>
+                <button onclick="shuffle333" id="shuffle_btn">Shuffle</button>
+                <ul id="song_list">
+                    
+                    <li >Treat You Better</li>
+                    <li >Señorita</li>
+                    <li >In My Blood</li>
+                    <li >Wonder</li>
+                    <li >Mercy</li>
+                    <li >There's Nothing Holdin' Me Back</li>
+                    <li >If I Can't Have You</li>
+                </ul>
+                
+                
+                <form id="form1">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" placeholder="Add a new song">
+                    <button type="submit" id="add_song">Add Song</button>
+                </form>
+
+            </div>
+           
+            
+            
+            
 
 
         </main>

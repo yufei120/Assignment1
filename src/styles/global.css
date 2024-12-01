@@ -64,11 +64,26 @@ body {
 #playlistmain img{
     width:auto;
     height: auto;
-    max-width: 100%;
-    max-height:50%;
+    max-width: 40%;
+    max-height:15%;
     margin-left: 20px;
     border-radius:20px;
 
+}
+#playlistmain{
+    display: flex;
+    margin: auto;
+}
+.menulist{
+    margin-left: 40px;
+    margin-top: -20px;
+    border-radius:20px;
+}
+#add_song{
+    margin-top: 20px;
+}
+#name{
+    margin-top: 10px;
 }
 
 
@@ -136,3 +151,21 @@ main {
     list-style: none;
     line-height: 1.5;
 }
+
+
+  #name {
+    padding: 8px;
+    width: 300px;
+    margin-right: 10px;
+  }
+  button {
+    padding: 8px 15px;
+    background-color: rgb(190, 138, 187);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: rgb(191, 110, 187);
+  }
